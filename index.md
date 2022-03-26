@@ -1,0 +1,6 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/getting-started/overview)
+    - [Requirements](/{{route}}/{{version}}/getting-started/requirements)
+    - [Before Installation](/{{route}}/{{version}}/getting-started/pre-installation)
+    - [Installation](/{{route}}/{{version}}/getting-started/installation)
+    - [After Installation](/{{route}}/{{version}}/getting-started/post-installation)
