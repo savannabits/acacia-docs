@@ -1,6 +1,8 @@
 - ## Get Started
     - [Overview](/{{route}}/{{version}}/getting-started/overview)
-    - [Requirements](/{{route}}/{{version}}/getting-started/requirements)
-    - [Before Installation](/{{route}}/{{version}}/getting-started/pre-installation)
     - [Installation](/{{route}}/{{version}}/getting-started/installation)
-    - [After Installation](/{{route}}/{{version}}/getting-started/post-installation)
+- ## Basics
+  - [Package Structure](/{{route}}/{{version}}/basics/structure)
+  - [Basic Usage](/{{route}}/{{version}}/basics/usage)
+  - [Frontend Assets](/{{route}}/{{version}}/basics/frontend-assets)
+- ## Digging Deeper

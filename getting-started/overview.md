@@ -36,3 +36,7 @@ __The Solution__: After the initial scaffold,
 Assuming it would take you 20 minutes to write migrations for all the modules listed above (Most of the tables have identical fields really) and another 10 seconds to run the generation command, you are home and dry in 21 minutes. Days saved!
 
 **Already convinced? Let's proceed to install Acacia**
+
+<p class="flex justify-end">
+<larecipe-button tag="a" href="./installation" type="primary" >Installation <i class="fas fa-arrow-right"></i> </larecipe-button>
+</p>
