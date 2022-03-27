@@ -2,7 +2,7 @@
     - [Overview](/{{route}}/{{version}}/getting-started/overview)
     - [Installation](/{{route}}/{{version}}/getting-started/installation)
 - ## Basics
-  - [Package Structure](/{{route}}/{{version}}/basics/structure)
+  - [Package Structure](/{{route}}/{{version}}/basics/package-structure)
   - [Basic Usage](/{{route}}/{{version}}/basics/usage)
   - [Frontend Assets](/{{route}}/{{version}}/basics/frontend-assets)
 - ## Digging Deeper
