@@ -47,8 +47,8 @@ Code generation in `Acacia` is a two-step process, but this can be done all in o
 ```bash
 php artisan acacia:blueprint album_types
 ```
-Output:
-[Image]
+Output:<br>
+![image](https://user-images.githubusercontent.com/5610289/160295925-bebe02f9-7840-4d3e-833f-69046d2070b4.png)
 
 <a name='generating-code'></a>
 ## Generating Code
@@ -59,8 +59,9 @@ php artisan acacia:make album_types
 ```
 The command will generate the `AlbumTypes` module, whose files will be under the folder `acacia/AlbumTypes/` as shown in the command output below:
 
-Output:
-[Image]
+Output:<br>
+![image](https://user-images.githubusercontent.com/5610289/160295995-3d1ce4f7-22de-4b1e-a8fd-35a5090d08cd.png)
+
 __________________________
 **TIP: If the module already exists and you would like to force its replacement, you can specify `-F` or `--force` to the `acacia:make` command.**
 ___________________________
@@ -70,6 +71,7 @@ ____________________
 _______________
 
 Congratulations! You have just generated your first CRUD! You can access the module via the backend sidebar under `Backend -> Album Types`
+![image](https://user-images.githubusercontent.com/5610289/160296030-9dbc8632-1a04-46f1-af30-b74546db338c.png)
 
 <p class="flex justify-between">
 <larecipe-button tag="a" href="./package-structure" type="primary" class="btn-sm"><i class="fas fa-arrow-left"></i> Installation</larecipe-button>
